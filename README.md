@@ -1,2 +1,2 @@
 # CPSC436V
-course assignments
+course assignments of https://www.students.cs.ubc.ca/~cs-436v/22Jan/
